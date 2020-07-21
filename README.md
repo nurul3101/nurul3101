@@ -1,4 +1,24 @@
-### Hey there 👋
+## Hey there 👋
+
+#### Somethings about me :smile:
+
+- A Fullstack Dev who loves working in Javascript Ecosystem and a serverless fanatic
+- I love working with React / Node / Typescript / GraphQL / AWS
+- Loves everything about Formula 1 
+
+#### Currently Learning :book:
+
+- Trying my hands on React Native and exploring Mobile Apps domain
+- Golang
+
+
+#### You can reach out to me at
+
+- [Twitter] (https://twitter.com/NurulSundarani)
+- [Linked In] (https://www.linkedin.com/in/nurul-sundarani/)
+- [My Website (nurulsundarani.me)](https://nurulsundarani.me/)
+
+
 
 <!--
 **nurul3101/nurul3101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
