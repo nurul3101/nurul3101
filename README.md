@@ -3,13 +3,12 @@
 #### Somethings about me :smile:
 
 - A Fullstack Dev who loves working in Javascript Ecosystem and a serverless fanatic
-- I love working with React / Node / Typescript / GraphQL / AWS
+- I love working with React / Node / Typescript / GraphQL / AWS / GCP
 - Loves everything about Formula 1 
 
 #### Currently Learning :book:
 
-- Trying my hands on React Native and exploring Mobile Apps domain
-- Golang
+- Trying my hands on Rust and Golang
 
 
 #### You can reach out to me at
