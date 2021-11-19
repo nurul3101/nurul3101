@@ -14,7 +14,7 @@
 #### You can reach out to me at
 
 - [Twitter](https://twitter.com/NurulSundarani)
-- [My Website (nurulsundarani.me)](https://nurulsundarani.me/)
+- [nurulsundarani.me](https://nurulsundarani.me/)
 
 
 
