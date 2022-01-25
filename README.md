@@ -8,7 +8,7 @@
 
 #### Currently Learning :book:
 
-- Trying my hands on Deno and Golang
+- Trying my hands on Deno and Rust
 
 
 #### You can reach out to me at
