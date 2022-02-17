@@ -2,13 +2,14 @@
 
 #### Somethings about me :smile:
 
-- A Fullstack Dev who loves working in Javascript Ecosystem and a serverless fanatic
+- Developer Success Engineer @prisma
+- A Fullstack Dev who loves working in Javascript Ecosystem and a serverless fanatic!
 - I love working with React / Node / Typescript / GraphQL / AWS / GCP
 - Loves everything about Formula 1 
 
 #### Currently Learning :book:
 
-- Trying my hands on Deno and Rust
+- Trying my hands Rust
 
 
 #### You can reach out to me at
