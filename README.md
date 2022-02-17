@@ -2,7 +2,7 @@
 
 #### Somethings about me :smile:
 
-- Developer Success Engineer @prisma
+- Developer Success Engineer [@prisma](https://github.com/prisma)
 - A Fullstack Dev who loves working in Javascript Ecosystem and a serverless fanatic!
 - I love working with React / Node / Typescript / GraphQL / AWS / GCP
 - Loves everything about Formula 1 
