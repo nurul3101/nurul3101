@@ -9,7 +9,7 @@
 
 #### Currently Learning :book:
 
-- Trying my hands Rust
+- Trying my hands at Rust
 
 
 #### You can reach out to me at
