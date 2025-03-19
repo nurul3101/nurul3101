@@ -7,14 +7,9 @@
 - I love working with React / Node / Typescript / GraphQL / AWS / GCP
 - Loves everything about Formula 1 
 
-#### Currently Learning :book:
-
-- Trying my hands at Rust
-
-
 #### You can reach out to me at
 
-- [Twitter](https://twitter.com/NurulSundarani)
+- [X](https://twitter.com/NurulSundarani)
 - [nurulsundarani.me](https://nurulsundarani.me/)
 
 
