@@ -9,7 +9,7 @@
 
 #### You can reach out to me at
 
-- [X](https://twitter.com/NurulSundarani)
+- [Twitter](https://twitter.com/NurulSundarani)
 - [nurulsundarani.me](https://nurulsundarani.me/)
 
 
